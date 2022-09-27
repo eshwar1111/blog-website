@@ -28,7 +28,7 @@
 
 ![edit article](https://user-images.githubusercontent.com/70826964/192485539-0f4eb218-296b-4d42-9ed2-e8d2ce5b6d97.png)
 <hr style="border:2px solid blue">
-- a blog can be deleted or removed unsing "delete"
+- a blog can be deleted or removed using "delete"
 <hr style="border:2px solid blue">
 
 <img src="https://user-images.githubusercontent.com/70826964/192485741-39510cd3-8e52-43e6-a25b-766fde7c2f20.png" width="90" height="30">
